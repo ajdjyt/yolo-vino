@@ -1,0 +1,4 @@
+# Ignore vscode config
+.vscode
+# Git repo of openvino zoo
+open_model_zoo

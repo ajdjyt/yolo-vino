@@ -1,0 +1,16 @@
+1.make .gitignore
+2.make requirements.txt
+3.git init
+4.conda create --name vino python=3.10
+5.conda activate vino
+6.conda install -c conda-forge openvino=2023.1.0
+7.add openvino==2023.1.0 to requirements.txt
+7.add ipykernel to requirements.txt
+8.change readme
+'''
+# Ignore vscode config
+.vscode
+# Git repo of openvino zoo
+open_model_zoo
+'''
+9.
