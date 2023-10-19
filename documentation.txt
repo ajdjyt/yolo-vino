@@ -13,4 +13,14 @@
 # Git repo of openvino zoo
 open_model_zoo
 '''
-9.
+9.git add .
+10.git commit -am "base"
+11.git remote add origin https://github.com/ajdjyt/yolo-vino.git
+12.git push -u origin main
+13.create README.md
+14.add to README.md
+'''
+# Openvino yolo implementation 
+'''
+15.git add .
+16.git commit -am "add README.md"
